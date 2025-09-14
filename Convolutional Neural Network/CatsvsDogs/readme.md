@@ -1,6 +1,6 @@
 # Cats vs Dogs CNN Project 🐱🐶
 
-![Dataset Cover](https://storage.googleapis.com/kaggle-datasets-images/1394179/2310932/177145f103ac67438061fc8dca3eaf22/dataset-cover.jpeg?t=2021-06-07-11-53-58)
+![Dataset Cover]("https://github.com/BehradFM/DeepLearning/tree/main/Convolutional%20Neural%20Network/CatsvsDogs/Image/dataset-cover.jpeg")
 
 This project implements a **Convolutional Neural Network (CNN)** to classify images of cats and dogs. It is designed to demonstrate how CNNs can be applied to binary image classification tasks.  
 
