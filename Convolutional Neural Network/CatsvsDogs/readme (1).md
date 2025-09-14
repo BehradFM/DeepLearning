@@ -1,0 +1,21 @@
+# Cats vs Dogs CNN Project 🐱🐶
+
+![Dataset Cover](https://storage.googleapis.com/kaggle-datasets-images/1394179/2310932/177145f103ac67438061fc8dca3eaf22/dataset-cover.jpeg?t=2021-06-07-11-53-58)
+
+This project implements a **Convolutional Neural Network (CNN)** to classify images of cats and dogs. It is designed to demonstrate how CNNs can be applied to binary image classification tasks.  
+
+Unlike MNIST, the dataset is not included by default and needs to be downloaded from Kaggle.
+
+## ✨ Features
+
+- CNN implementation for binary image classification (cats vs dogs).  
+- Preprocessing of raw image data for training and evaluation.  
+- Training and evaluation pipeline to test classification accuracy.  
+- Demonstrates the use of convolutional layers, pooling, and fully connected layers.  
+
+## 🗂 Dataset
+
+- **Cats vs Dogs**: A dataset containing images of cats and dogs.  
+- Available on Kaggle: [Cats and Dogs Dataset](https://www.kaggle.com/datasets/d4rklucif3r/cat-and-dogs)  
+- You need to download the dataset manually from Kaggle and place it in your project folder before running the code.
+
