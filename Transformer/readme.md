@@ -36,12 +36,4 @@ This repository implements a **Transformer Encoder Network** for classifying hum
 > The dataset is not included in this repository. You can obtain it from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones).  
 > Place the `UCI HAR Dataset` folder in the project root before running the code.
 
----
 
-## 🛠️ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/human-activity-recognition-transformer.git
-   cd human-activity-recognition-transformer
-   
